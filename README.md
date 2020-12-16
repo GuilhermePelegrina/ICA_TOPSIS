@@ -13,5 +13,5 @@ To cite this work: Pelegrina, G. D.; Duarte, L. T.; Romano, J. M. T. (2019). App
 All the files in this repository are in .m format, so it is necessary to execute them in a Matlab (v. 2015a) or Octave Environment
 
 1) Clone the repository 
-2) Execute the file "main_$$$.m", in which $$$ is the analysis that you would like to conduct
+2) Execute the file "main_$$$.m", where $$$ is the name of the analysis that you would like to conduct
 3) The dataset used are also in this folder
